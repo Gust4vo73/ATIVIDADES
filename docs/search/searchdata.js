@@ -1,24 +1,21 @@
 var indexSectionsWithContent =
 {
-  0: "emt",
-  1: "e",
-  2: "m",
-  3: "t"
+  0: "mv",
+  1: "v",
+  2: "m"
 };
 
 var indexSectionNames =
 {
   0: "all",
   1: "files",
-  2: "functions",
-  3: "defines"
+  2: "functions"
 };
 
 var indexSectionLabels =
 {
   0: "Todos",
   1: "Arquivos",
-  2: "Funções",
-  3: "Definições e Macros"
+  2: "Funções"
 };
 
